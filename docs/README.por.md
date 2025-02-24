@@ -1,11 +1,11 @@
 <!--
-    title: Voice-Pro: Ultimate AI Voice Conversion and Multilingual Translation Tool
-    description: Powerful AI-powered web application for YouTube video processing, speech recognition, translation, and text-to-speech with multilingual support
-    keywords: AI voice conversion, YouTube translation, subtitle generation, speech-to-text, text-to-speech, voice cloning, multilingual translation, ElevenLabs Alternative 
+    title: Voice-Pro: Ferramenta definitiva de conversão de voz AI e tradução multilíngue
+    description: Poderoso aplicativo da web com tecnologia AI para processamento de vídeo do YouTube, reconhecimento de fala, tradução e texto para fala com suporte multilíngue
+    keywords: Conversão de voz AI, tradução do YouTube, geração de legendas, fala para texto, texto para fala, clonagem de voz, tradução multilíngue, Alternativa ElevenLabs
     author: ABUS
     version: 2.0.0
     last-updated: 2025-02-23
-    product-type: AI Multimedia Processing Software
+    product-type: Software de processamento multimídia AI
     platforms: Windows
     technology-stack: Whisper, Edge-TTS, Gradio, CUDA, Faster-Whisper, Whisper-Timestamped, E2-TTS, F5-TTS, YouTube Downloader, Demucs, MDX-Net, RVC, CosyVoice, kokoro
     license: LGPL
@@ -17,7 +17,7 @@
 
 [![GitHub Release](https://img.shields.io/github/v/release/abus-aikorea/voice-pro)](https://github.com/abus-aikorea/voice-pro/releases)
 
-## 🎙️ Ferramenta Avançada de Processamento Multimídia Baseada em IA | Interface Web de Reconhecimento de Fala Whisper
+## 🎙️ Poderoso aplicativo da web com tecnologia AI para processamento de vídeo do YouTube, reconhecimento de fala, tradução e texto para fala com suporte multilíngue
 
 Voice-Pro é um aplicativo web de ponta que transforma a criação de conteúdo multimídia. Ele integra download de vídeos do YouTube, separação de voz, reconhecimento de fala, tradução e conversão de texto em fala (TTS) em uma única ferramenta poderosa, oferecendo uma solução ideal para criadores, pesquisadores e profissionais multilíngues.
 
@@ -39,7 +39,7 @@ Como uma alternativa robusta ao **ElevenLabs**, o Voice-Pro capacita podcasters,
 - ⏳ Na primeira execução, será feito o download do **CozyVoice2-0.5B (9GB)**. Dependendo da velocidade da rede, pode levar mais de uma hora
 - 🎧 Amostras de voz para clonagem serão continuamente atualizadas
 - **Orientações:**
-  - **Usuários existentes:** Execute **update.bat** para atualizar para v2.0.x
+  - **Usuários existentes:** Baixe a versão mais recente do Voice-Pro. Execute **update.bat**.
   - **Novos usuários:** Veja a seção de instalação abaixo — execute **configure.bat** e depois **start.bat**
 
 ## 🚄 Demonstrações
@@ -96,7 +96,7 @@ Como uma alternativa robusta ao **ElevenLabs**, o Voice-Pro capacita podcasters,
 - Opções de saída: WAV, FLAC, MP3
 - Legendas e reconhecimento para mais de 100 idiomas
 - TTS com ajustes de velocidade, volume e tom
-<p align="center"><img style="width: 90%; height: 90%" src="images/main_page.kor.png?raw=true" alt="Interface Web de Conversão de Voz Multilíngue e Geração de Legendas"/></p>
+<p align="center"><img style="width: 90%; height: 90%" src="images/main_page.por.png?raw=true" alt="Interface Web de Conversão de Voz Multilíngue e Geração de Legendas"/></p>
 
 ### Aba `Legendas Whisper`
 - Foco em legendas: Mais de 90 idiomas
@@ -188,12 +188,24 @@ Quando o Windows Defender reconhece erroneamente um arquivo em lote como um Troj
 2. **Desativar temporariamente o Windows Defender:** Isso pode ser uma solução temporária. No entanto, tome cuidado ao usar esse método, pois seu computador pode ficar exposto a outras ameaças
 3. **Reportar o problema ao software antivírus:** Se você tiver certeza de que o arquivo não é um Trojan, pode reportá-lo à Microsoft como "Falso Positivo". A Microsoft revisará e tomará as medidas necessárias
 
-## ☕ Aviso
-- Este repositório oferece uma **versão de teste gratuita** do Voice-Pro
-- A versão de teste gratuita suporta até **60 segundos** de processamento de mídia
-- A versão completa do Voice-Pro pode ser adquirida no site oficial da ABUS (<https://abuskorea.imweb.me>)
-- Ao nos apoiar no [Buy Me a Coffee](https://github.com/abus-aikorea/voice-pro/discussions/10#discussioncomment-11527327) com um ☕, você receberá um voucher de uso de até um mês como agradecimento
-- Para dúvidas sobre compras, parcerias, ajustes, investimentos, etc., entre em contato conosco por <abus.aikorea@gmail.com>
+
+## 🚨 Aviso
+- Este repositório oferece uma **versão de teste gratuita** do Voice-Pro.
+- A versão de teste gratuita do Voice-Pro permite processar até **60 segundos** de mídia.
+- A versão oficial do Voice-Pro pode ser adquirida através do site oficial da ABUS (<https://abuskorea.imweb.me>).
+
+
+## ☕ Contribuições
+- Se você deseja participar e nos ajudar com este projeto, sinta-se à vontade para criar um [Issues](https://github.com/abus-aikorea/voice-pro/issues).
+- Se algo der errado, envie um [Pull requests](https://github.com/abus-aikorea/voice-pro/pulls) para melhorar este projeto.
+- Qualquer tipo de contribuição é bem-vindo.
+- Para dúvidas relacionadas a compras, parcerias comerciais, ajustes técnicos, investimentos e outros assuntos, entre em contato conosco por e-mail (<abus.aikorea@gmail.com>).
+- Se você gosta deste projeto, por favor, dê uma estrela a este repositório. Nós agradeceríamos muito. ⭐⭐⭐
+- Você pode apoiar o Voice-Pro com uma doação aqui:
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/abus)
+
+
 
 ## 📬 Contato
 - E-mail: <abus.aikorea@gmail.com>
